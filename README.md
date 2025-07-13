@@ -59,6 +59,9 @@ We welcome contributions! Please follow these steps:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c7af05d-cc05-4c6a-a025-4f45ea44d3ad" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9da44582-ad9f-48a8-a294-fbba32263ac7" />
 
 ##  License
 
