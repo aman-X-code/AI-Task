@@ -1,4 +1,4 @@
-git init# 🤖 AI Task Manager
+### 🤖 AI Task Manager
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac65db92-e1f6-4212-bafa-1ac4b2b59b95" />
 
